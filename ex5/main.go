@@ -1,6 +1,6 @@
 package main
 
-import "github.com/danteay/meetup-golang-2020-10-15/ex5/print"
+import "github.com/danteay/meetup-go-2020-10-15/ex5/print"
 
 type (
 	ID     string

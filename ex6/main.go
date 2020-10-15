@@ -1,6 +1,6 @@
 package main
 
-import "github.com/danteay/meetup-golang-2020-10-15/ex6/print"
+import "github.com/danteay/meetup-go-2020-10-15/ex6/print"
 
 type Person struct {
 	name string
